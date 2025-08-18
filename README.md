@@ -13,3 +13,5 @@ To use this download the code then run
 `pip install streamlit`
 
 `streamlit app.py`
+
+View it here [Food Point App - Streamlit](https://foodpointai-6dutp9qgfngbtx3rskylom.streamlit.app/)
